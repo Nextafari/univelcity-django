@@ -1,0 +1,38 @@
+.text-welcome {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.date {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.weather-icon{
+    background-color: orange;
+} 
+
+.card-custom {
+    margin-top: 15px;
+}
+
+.card-custom-header {
+    color: blue;
+    text-transform: uppercase;
+    font-family: 'Trade Winds', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Abril Fatface', cursive;
+}
+
+img {
+    /*background: url('/img/sample_1.jpg') 20% no-repeat;*/
+    height: 600px;
+    width: 100%;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    
+}
+
+
